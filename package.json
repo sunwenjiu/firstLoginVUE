@@ -19,7 +19,7 @@
     "pubsub-js": "^1.7.0",
     "qs": "^6.7.0",
     "vue": "^2.5.2",
-    "vue-resource": "^1.5.1",
+    "vue-resource": "^1.5.3",
     "vue-router": "^3.0.6"
   },
   "devDependencies": {
